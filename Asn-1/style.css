@@ -1,0 +1,221 @@
+*{margin: 0;
+    font-family: 'work sans','open sans';}
+ .banner{
+    
+    width: 100%;height: 800px;
+    background-image: url(banner3.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    
+    
+  }
+  
+  .btn1{
+       color: #005FAC;
+       background-color:white;
+       font-size: 20px;
+       font-family: 'Open Sans', sans-serif;
+       font-family: 'Work Sans', sans-serif;
+       border:none;
+       border-radius: 5px;
+       padding: 20px 25px;
+       margin-top: 10px;
+     }
+  
+  .text1{
+    margin-left: 800px;
+    margin-top: 216px;
+
+    
+     position: absolute;
+    
+  }
+  .title1{
+     color: white;
+     font-weight: 700;
+     font-size: 60px;
+     font-family: 'Open Sans', sans-serif;
+     font-family: 'Work Sans', sans-serif;
+     }
+  p{
+     font-size: 16px;
+     font-family: 'Open Sans', sans-serif;
+     font-family: 'Work Sans', sans-serif;
+     margin-top: 10px;
+     color: white;
+    }
+
+    /* Banner Section Done */
+
+    .failure{
+    
+        width: 1072px;height: 723px;
+        background-image: url(person.png);
+        background-repeat: no-repeat;
+        margin-bottom: 150px;
+        
+        
+      }
+      
+      
+      .text2{
+        margin-left: 800px;
+        margin-top: 216px;
+    
+        
+         position: absolute;
+        
+      }
+      .title2{
+         color:black;
+         font-weight: 700;
+         font-size: 60px;
+         font-family: 'Open Sans', sans-serif;
+         font-family: 'Work Sans', sans-serif;
+         }
+
+           ul li:before {
+                content: '✓';
+                color:forestgreen;
+              }
+         ul{
+            padding-left:0px;
+            padding-top: 5px;
+            list-style: none;
+         }
+
+         /* my plan css */
+
+         .plans{
+            text-align: center;
+            font-weight: 700;
+            font-size: 40px;
+            
+         }
+
+         .flex{
+            display: flex;
+            justify-content:space-around;
+            height: 202px;
+            width: 1140px;
+            margin-top: 60px;
+            
+            margin-left: 70px;
+         }
+         .title3{
+            text-align: center;
+          
+           margin-left: 70px;
+          
+        
+         }
+
+        text{
+            font-weight: 500;
+            font-size: 25px;
+        }
+        h5{
+            font-weight: 700;
+            font-size: 30px;
+        }
+
+
+        /* background of watch */
+        
+        .background2{
+            height:300px;
+            width: 1140px;
+            
+            background-image: url(./gradient1.png),url(watch.png);
+            padding-top: 64px;
+            background-repeat: no-repeat;
+            
+            position: absolute;
+            
+            
+            
+            }
+            
+            h3{
+                font-family: 'Work Sans';
+                font-weight: 700;
+                font-size: 40px;
+                color: #FFFFFF;
+                margin-left: 64px;
+            }
+            
+            #btn-design{
+               height: 64px;
+               width: 160px;
+               font-weight: 600;
+               font-size: 20px;
+               color: #005FAC;
+               background-color:white;
+               margin-left: 64px;
+               border: none;
+               border-radius: 5px;
+            }
+            
+            .timebox{
+                height:300px;
+                width: 1140px;
+                padding-top: 50px;
+                margin-left: 60px;
+                margin-bottom: 60px;
+                
+            }
+            
+            /* footer */
+
+         .footer{
+            height: 577px;
+            width:100%;
+            display: flex;
+            background-color: black;
+            justify-content: space-around;
+            align-items: center;
+            
+         }
+            .title6{
+                color: white;
+                font-weight: 600;
+                font-size: 25px;
+            }
+
+            input[type="text"] {
+                width: 325px;
+                height: 64px;
+                font-weight: 400;
+                font-size: 18px;
+                margin-top: 10px;
+                border-style: 20px;
+                border-color: white;
+                border-radius: 10px;
+                
+                background-color: black;
+                
+
+            }
+
+            .btn5{
+                width: 170px;
+                height: 64px;
+                font-weight: 600;
+                font-size: 20px;
+                background-color: #005FAC;
+                color: white;
+                border: none;
+                border-radius: 10px;
+                margin-top: 10px;
+            }
+
+            .content{
+                
+            }
+
+            .title7{
+                margin-left:0px;
+            }
+            .icon{
+                margin-top: 30px;
+            }
